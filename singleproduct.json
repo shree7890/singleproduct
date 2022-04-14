@@ -1,0 +1,41 @@
+ {
+    "id": "rec43w3ipXvP28vog",
+    "fields": {
+      "company": "ikea",
+      "colors": [
+        "#f15025",
+        "#222"
+      ],
+      "featured": true,
+      "price": 99,
+      "name": "high-back bench",
+      "image": [
+        {
+          "id": "attcvDDMikF6G2iNi",
+          "width": 1000,
+          "height": 639,
+          "url": "https://dl.airtable.com/.attachments/14ac9e946e1a02eb9ce7d632c83f742f/4fd98e64/product-1.jpeg?ts=1649844751&userId=usrQMwWEPx18KgLcP&cs=0def6e72d3c2cd1d",
+          "filename": "product-1.jpeg",
+          "size": 62864,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c6c5c0d7a0b2abe7494acbcf112df4f1/14292088?ts=1649844751&userId=usrQMwWEPx18KgLcP&cs=4ede8268779fa9e2",
+              "width": 56,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d86e13eec1b200e2b21282b99a9382be/6d92321b?ts=1649844751&userId=usrQMwWEPx18KgLcP&cs=e6b7c50726897f97",
+              "width": 801,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1135c89c18e3edcdc125a8f94e462d6a/c8e40bb6?ts=1649844751&userId=usrQMwWEPx18KgLcP&cs=7b2281ac23577dc4",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  }
